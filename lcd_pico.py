@@ -1,5 +1,5 @@
 # LCD Module for HD44780 with I2C interface.
-# Derived from Adafruit Circuitpython by David Goadby.
+# Derived by David Goadby from Adafruit Circuitpython and, probably, earlier work by Dave Hylands.
 # Originally this was two modules. I changed it into one.
 # Tested on RaspberryPi Pico"
 
